@@ -128,3 +128,6 @@ a:hover {
 	font-family: 'Amatic SC'
 }
 
+.sidenote {
+	list-style-type: square;
+}
