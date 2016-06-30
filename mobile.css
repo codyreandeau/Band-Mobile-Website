@@ -90,7 +90,7 @@ a:hover {
 	color:white;
 	font-family: 'Amatic SC';
 	font-weight: bold;
-	font-size:7vw;
+	font-size:6.8vw;
 }
 
 .subcontainer {
@@ -130,4 +130,9 @@ a:hover {
 
 .sidenote {
 	list-style-type: square;
+}
+
+#about {
+	font-size: 30px;
+	text-decoration: underline;
 }
